@@ -159,22 +159,10 @@ Este repositorio es una herramienta educativa. Su uso debe ser siempre dentro de
     └── payloads/
 ```
 
----
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, asegúrate de que cualquier contenido sea **técnicamente preciso** y **éticamente responsable**.
-
----
-
-## 📜 Licencia
-
-Este proyecto está bajo licencia **MIT**. Úsalo responsablemente.
-
----
 
 ## 👤 Autor
 KALETH CORCHO
+
 **Elite Security Researcher** | Active Directory Specialist
 
 ---
