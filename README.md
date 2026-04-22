@@ -174,7 +174,7 @@ Este proyecto está bajo licencia **MIT**. Úsalo responsablemente.
 ---
 
 ## 👤 Autor
-
+KALETH CORCHO
 **Elite Security Researcher** | Active Directory Specialist
 
 ---
